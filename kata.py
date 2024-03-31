@@ -33,3 +33,9 @@ def abbrev_name(name):
 name = abbrev_name("Bunamin Adams")
 print(name)
 
+
+ 
+for ( i = 1; i < 3; i++){
+     print(i)
+}
+print("Go!")
